@@ -1,2 +1,2 @@
 # MFCoinAds
-CPS на MFCoin
+Система по типу EmerLNX в реализации на PHP.
